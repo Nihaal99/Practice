@@ -1,0 +1,20 @@
+"C:\Program Files\Java\jdk-11.0.13\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3\lib\idea_rt.jar=51118:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\csp\Desktop\Practice\Java\emailApp\out\production\emailApp DefaultPackage.EmailApp
+The firstname is: John and lastname is: Smith
+Enter the department
+1 for Sales
+2 for Developement
+3 for Accounting
+4 for none
+Enter the department code:
+
+2
+Department is: developement
+Enter the password length more than 5
+9
+Generated random password is: ZW1CK#VHS
+Alternate email Id is: abc@gmail.com
+DISPLAYNAME: John Smith
+COMPANYEMAIL: john.smith@developement.anycompany.com
+MAILBOXCAPACITY: 500 mb
+
+Process finished with exit code 0
